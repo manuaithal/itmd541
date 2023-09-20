@@ -1,0 +1,43 @@
+
+
+.heading
+{
+    font-style: italic;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:black; 
+    text-decoration: underline;
+}
+.hello{
+    font-size: 20px;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:orangered;
+    
+
+}
+
+
+body{
+    background-color: antiquewhite;
+    display: block;
+    background-image: url('chrzirord2.png');
+    background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+    
+}
+    
+.exp{
+    font-size: 20px;
+    font-family: fantasy;
+    color: orangered;
+   
+
+}
+
+.contact-info
+{
+    font-family: fantasy;
+    color:orangered;
+}
